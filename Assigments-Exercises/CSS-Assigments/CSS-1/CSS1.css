@@ -1,0 +1,17 @@
+h1 {
+  color: #1877f2;
+}
+
+p {
+  font-size: 20px;
+  color: grey;
+}
+
+p span {
+  font-style: italic;
+}
+
+.text-pos {
+  text-align: center;
+  font-family: sans-serif;
+}
